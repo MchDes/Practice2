@@ -13,5 +13,6 @@ int main()
    for (int start = 0; start < count; ++start)
    {
         printf("%d ", arr[count - start - 1]);
+        printf("Printf");
    }
 }
