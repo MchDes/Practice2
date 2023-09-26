@@ -15,4 +15,6 @@ int main()
         printf("%d ", arr[count - start - 1]);
         printf("Printf");
    }
+ddd
+
 }
